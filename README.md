@@ -182,3 +182,10 @@ Use of EdenAI is governed by the
 ➡️ **[Usage Policy & Acceptable Use](USAGE_POLICY.md)**
 
 ---
+
+
+<p align="center">
+  <sub>
+    Made with ❤️ by <a href="https://t.me/joshb0t">@joshb0t</a> · Built for Telegram communities
+  </sub>
+</p>
