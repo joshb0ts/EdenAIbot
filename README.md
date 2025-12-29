@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="assets/edenai-banner.png" alt="EdenAI Banner" width="600">
+  <img src="assets/edenai-banner.png" alt="EdenAI Banner" style="max-height:240px;width:100%;object-fit:cover;">
 </p>
+
 
 <h1 align="center">🌿 EdenAI</h1>
 <h3 align="center">Telegram Utility · Media · AI Bot</h3>
