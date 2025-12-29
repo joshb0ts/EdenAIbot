@@ -10,12 +10,19 @@
 </p>
 
 <p align="center">
+  <a href="https://t.me/EdensAIbot">
+    <img src="https://img.shields.io/badge/🚀%20Open%20Bot%20on%20Telegram-EdensAIbot-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge" alt="Open EdenAI bot on Telegram">
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue" alt="Python">
   <img src="https://img.shields.io/badge/Platform-Telegram-blue" alt="Telegram">
   <img src="https://img.shields.io/badge/Status-Active-success" alt="Status">
   <img src="https://img.shields.io/uptimerobot/ratio/m789613149-1f49530a6a35579c4ced9d67?label=uptime" alt="Uptime">
   <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
 </p>
+
 
 ---
 
@@ -166,5 +173,12 @@ Command	Description
 /cookiestatus	Check YouTube cookies
 
 /cookiehelp	Cookie & EJS setup help
+
+---
+
+## 📜 Usage Policy
+
+Use of EdenAI is governed by the  
+➡️ **[Usage Policy & Acceptable Use](USAGE_POLICY.md)**
 
 ---
