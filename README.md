@@ -14,8 +14,11 @@
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue">
   <img src="https://img.shields.io/badge/Platform-Telegram-blue">
   <img src="https://img.shields.io/badge/Status-Active-success">
+  <img src="https://img.shields.io/uptimerobot/ratio/m789613149-1f49530a6a35579c4ced9d67">
   <img src="https://img.shields.io/badge/License-MIT-green">
+
 </p>
+
 
 ---
 
